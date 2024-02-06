@@ -1,0 +1,11 @@
+{
+    "version": "0.1.0",
+    "configurations": [
+        {
+            "name": "Gauge Run Option",
+            "type": "gauge",
+            "request": "test",
+            "env": ["dev"]
+        }
+    ]
+}
